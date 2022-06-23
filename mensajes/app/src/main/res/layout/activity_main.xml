@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:app="http://schemas.android.com/apk/res-auto"
+ xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+ android:layout_width="match_parent"
+ android:layout_height="match_parent"
+ tools:context=".MainActivity">
+ <EditText
+    android:id="@+id/xet1"
+    android:inputType="numberDecimal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:text="Number" />
+ <EditText
+     android:id="@+id/xet3"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     android:text="Name" />
+ <Button
+     android:id="@+id/xbn2"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="NEW CONTACT"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent" />
+ <Spinner
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:id="@+id/spn"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"/>
+<EditText
+    android:id="@+id/xet2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:text="Message" />
+ <Button
+ android:id="@+id/xbn"
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:text="SEND MESSAGE"
+ app:layout_constraintEnd_toEndOf="parent"
+ app:layout_constraintStart_toStartOf="parent"
+ app:layout_constraintTop_toTopOf="parent" />
+</LinearLayout>
