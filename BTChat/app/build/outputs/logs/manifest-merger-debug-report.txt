@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:5:22-65
+application
+ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0ef4004be89a62258f2a22c20411af933c7be9f7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\4cc1c94c83277076a04658a8d15016d9098e8c31\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\67d5ff7b710e2f07a2286927b049ffacd0bef4e0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\cc6abee046a87a655779713339d34404bc862f87\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0f9cbe089d336a36c0837b6ab639377e3e88917b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\de5a4c05c7d7721ba21daed80df0cc80ec25f190\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\984d4023272eeca5fea03f9524535c1f3e543eab\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\e3d53e0e33f663725a5829613001aaca54722772\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\d2f9e81d57e81e67b10de8ac606936c539c5b26a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.android\build-cache\e818b96ab6b0981091d4ac39fd069b6faab13335\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.sarthitechnology.btchat.MainActivity
+ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0ef4004be89a62258f2a22c20411af933c7be9f7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\4cc1c94c83277076a04658a8d15016d9098e8c31\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\67d5ff7b710e2f07a2286927b049ffacd0bef4e0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\cc6abee046a87a655779713339d34404bc862f87\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0f9cbe089d336a36c0837b6ab639377e3e88917b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\de5a4c05c7d7721ba21daed80df0cc80ec25f190\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\984d4023272eeca5fea03f9524535c1f3e543eab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\e3d53e0e33f663725a5829613001aaca54722772\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\d2f9e81d57e81e67b10de8ac606936c539c5b26a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.android\build-cache\e818b96ab6b0981091d4ac39fd069b6faab13335\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0ef4004be89a62258f2a22c20411af933c7be9f7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\karan\dextop\AndroidStudioProjects\BTChat\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0ef4004be89a62258f2a22c20411af933c7be9f7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\4cc1c94c83277076a04658a8d15016d9098e8c31\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\67d5ff7b710e2f07a2286927b049ffacd0bef4e0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\cc6abee046a87a655779713339d34404bc862f87\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0f9cbe089d336a36c0837b6ab639377e3e88917b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\de5a4c05c7d7721ba21daed80df0cc80ec25f190\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\984d4023272eeca5fea03f9524535c1f3e543eab\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\e3d53e0e33f663725a5829613001aaca54722772\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\d2f9e81d57e81e67b10de8ac606936c539c5b26a\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0ef4004be89a62258f2a22c20411af933c7be9f7\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\lenovo\.android\build-cache\0ef4004be89a62258f2a22c20411af933c7be9f7\output\AndroidManifest.xml:26:9-47

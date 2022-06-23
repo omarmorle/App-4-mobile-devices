@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\e818b96ab6b0981091d4ac39fd069b6faab13335\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9756a63ff08783dc6189a94e785b1266b0fb9aca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\984d4023272eeca5fea03f9524535c1f3e543eab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24a2fe8b0dc01562abf9ece7713324206e7aeb3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e91a92ad41ee4434296f9e324a2075b2028a6994\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\d2f9e81d57e81e67b10de8ac606936c539c5b26a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6ada05fd642ba7486d4ac1ea05a02ee11afff78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\de5a4c05c7d7721ba21daed80df0cc80ec25f190\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4ac642736bb2e3d716b7d6384a8aff2ad19a315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\67d5ff7b710e2f07a2286927b049ffacd0bef4e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ca86c1382cd08ced620b774cd3ec066676d6d7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_5b398d07c9f8e74558fa231d3033e12e0aac9862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="76c89c99b061218d1a903b47ad3d9023ca2fa467">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a2467b3914ffda4042e240f4098c420294056597\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\0ef4004be89a62258f2a22c20411af933c7be9f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19f6c52fcd9be386a0a945cd6bfa24ea62062e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\4cc1c94c83277076a04658a8d15016d9098e8c31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dc4a730cfc63237936d4af44e5e715d73e1b8bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\cc6abee046a87a655779713339d34404bc862f87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb09ef4caef7ccf1245903eeb979d384e41c1702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1e55431a6aec09ea9231570cbc71d3ca88bbe03e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\e3d53e0e33f663725a5829613001aaca54722772\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5baf30f80ab31c85d608f00ce61e9cf316126496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\0f9cbe089d336a36c0837b6ab639377e3e88917b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\karan\dextop\AndroidStudioProjects\BTChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07d0f3f549f5d14d31e7db81e4a3837ae22c15f0\classes.dex" />
+    </item>
+
+</items>
