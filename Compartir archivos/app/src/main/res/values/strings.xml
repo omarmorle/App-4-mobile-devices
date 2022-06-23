@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Proyecto 2</string>
+    <string name="nearUsers">Elije el receptor</string>
+    <string name="enterZone">Listo?</string>
+    <string name="exitZone">Salir</string>
+    <string name="connected">Listisimo pa</string>
+    <string name="disconnected">No listo :c</string>
+    <string name="refresh">Recargar</string>
+
+    <string name="selectFile">Selecciona el archivo a enviar</string>
+    <string name="chooseFile">Elije un archivo</string>
+    <string name="user">Usuario:</string>
+    <string name="file">Archivo:</string>
+    <string name="send">Enviar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="sending">Enviando archivo…</string>
+    <string name="success">Archivo enviado.</string>
+    <string name="failure">No se envio :(</string>
+</resources>
